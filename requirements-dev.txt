@@ -1,0 +1,17 @@
+certifi==2024.7.4 
+chardet==3.0.4 
+googletrans==3.1.0a0 
+h11==0.9.0 
+h2==3.2.0 
+hpack==3.0.0 
+hstspreload==2024.8.1 
+httpcore==0.9.1 
+httpx==0.13.3 
+hyperframe==5.2.0 
+idna==2.10 
+pyqt5-qt5==5.15.14 
+pyqt5-sip==12.15.0 
+pyqt5==5.15.4 
+rfc3986==1.5.0 
+ruff==0.5.7 
+sniffio==1.3.1 
