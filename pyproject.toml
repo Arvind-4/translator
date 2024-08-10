@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "translator"
+version = "0.1.0"
+description = "A Translator app in python"
+authors = ["Arvind A <pingarvindforquestions@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyqt5 = "5.15.4"
+googletrans = "3.1.0a0"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.5.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
